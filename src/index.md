@@ -16,7 +16,7 @@ Estructura de proyecto básica para generar sitios estáticos en Metalsmith.
 
 Para hacer uso de este repositorio en un nuevo proyecto es necesario clonarlo y reconfigurar el origen:
 ```
-git clone https://github.com/oskomonzon/funksmith.git
+git clone https://github.com/oskomonzon/funksmith.git NOMBRE_DE_CARPETA_DESTINO
 git remote rename origin upstream
 git remote add origin URL_A_NUEVO_REPOSITORIO
 ```
