@@ -6,3 +6,12 @@ a:link    { color: #039BE5 }  /* unvisited links */
 a:visited { color: #5E35B1 }  /* visited links   */
 a:hover   { color: #01579B }  /* user hovers     */
 a:active  { color: #66BB6A }  /* active links    */
+
+.verMas {
+  border-bottom: 1px dashed #eee;
+  display: block;
+  float: right;
+  font-size: 0.5em;
+  text-align: right;
+  width: 100%;
+}
